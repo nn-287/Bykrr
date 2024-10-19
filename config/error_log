@@ -1,0 +1,44 @@
+[11-Jan-2023 18:14:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/winji546/portal.winji.org/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/winji546/portal.winji.org/config/cache.php on line 21
+[11-Jan-2023 18:14:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/winji546/portal.winji.org/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/winji546/portal.winji.org/config/cache.php on line 21
+[24-Jan-2023 16:22:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/winji546/portal.winji.org/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/winji546/portal.winji.org/config/cache.php on line 21
+[24-Jan-2023 16:22:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/winji546/portal.winji.org/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/winji546/portal.winji.org/config/cache.php on line 21
+[09-Feb-2023 16:23:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/winji546/portal.winji.org/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/winji546/portal.winji.org/config/cache.php on line 21
+[15-Feb-2023 02:29:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/winji546/portal.winji.org/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/winji546/portal.winji.org/config/cache.php on line 21
+[15-Feb-2023 02:29:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/winji546/portal.winji.org/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/winji546/portal.winji.org/config/cache.php on line 21
+[22-Feb-2023 18:20:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/winji546/portal.winji.org/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/winji546/portal.winji.org/config/cache.php on line 21
+[22-Feb-2023 18:20:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/winji546/portal.winji.org/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/winji546/portal.winji.org/config/cache.php on line 21
+[28-Feb-2023 07:21:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/winji546/portal.winji.org/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/winji546/portal.winji.org/config/cache.php on line 21
+[28-Feb-2023 07:21:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/winji546/portal.winji.org/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/winji546/portal.winji.org/config/cache.php on line 21

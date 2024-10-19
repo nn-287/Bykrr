@@ -1,0 +1,20 @@
+<?php
+
+namespace App\Model;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Service extends Model
+{
+    use HasFactory;
+
+    // protected $casts = [
+    //     'status' => 'integer'
+    // ];
+
+    public function scopeActive($query)
+    {
+        return $query->where('status', '=', 1);
+    }
+}
